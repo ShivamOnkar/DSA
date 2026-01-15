@@ -1,5 +1,4 @@
-package Recursion;
-
+package Recusion;
 public class occurance {
     //Time and space complexity = O(n)
     public static int firstOccurence(int arr[], int key, int i){

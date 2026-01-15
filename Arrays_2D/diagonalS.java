@@ -23,7 +23,7 @@ public class diagonalS {
             sum += matrix[i][i];
             //secondary diagonal
             if(i != matrix.length-1-i){
-                sum += matrix[i][matrix.length-i-1];
+                sum += matrix[i][matrix.length-i-1];   // i+j = matrix.length-1 => j = matrix.length-i-1;
             }
         }
         return sum;

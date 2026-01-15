@@ -1,4 +1,4 @@
-package Recursion;
+package Recusion;
 
 public class power {
     //Time complexity = O(n)

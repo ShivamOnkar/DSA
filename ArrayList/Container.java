@@ -1,4 +1,4 @@
-package ArrayLists; 
+package ArrayList; 
 //Que : Container with most Water => for given n lines on x-axis, 
 //       use 2 lines to form a container such that it holds Maximum water.
 

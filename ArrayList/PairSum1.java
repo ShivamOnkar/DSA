@@ -1,4 +1,4 @@
-package ArrayLists;
+package ArrayList;
 //Find if any pair in a Sorted ArrayList has a target Sum.
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package Recursion;
+package Recusion;
 
 public class printNum {
     public static void printDec(int n){

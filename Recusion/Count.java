@@ -1,4 +1,4 @@
-package Recursion;
+package Recusion;
 /*
  * we are given a string S,we need to find the count
  *  of all contigunous String starting and ending with

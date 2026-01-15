@@ -1,4 +1,4 @@
-package Recursion;
+package Recusion;
 //Time complexity = O(n)
 //space complexity = O(n)
 

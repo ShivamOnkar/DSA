@@ -1,5 +1,4 @@
-package Recursion;
-//Time complexity  = O(2^n)
+package Recusion;//Time complexity  = O(2^n)
 //space complexity = O(n)
 
 public class fibonacci {
